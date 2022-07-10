@@ -53,18 +53,10 @@
 <Br>
 <hr>
 <Br>
-<h1>Certifications! 🏆</h1>
-<Br>
-<Br>
-<hr>
-<Br>
 <h1>GitHub Stats! 📊</h1>
 <Br>
   
 [![Arya's github stats](https://github-readme-stats.vercel.app/api?username=azar-barfipour&show_icons=true&theme=merko)](https://github.com/azar-barfipour/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azar-barfipour&layout=compact&theme=merko)](https://github.com/azar-barfipour/github-readme-stats)
-
- 
-<Br>
 <hr>
 <Br>
 <h1>Thank You!</h1>
